@@ -1,0 +1,24 @@
+{
+  "name": "restapi-post",
+  "version": "1.0.0",
+  "description": "Connecting to a database. Using POST method to post information through Postman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Ahmed-Khan/RestAPI-Post.git"
+  },
+  "author": "Ali Ahmed Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ali-Ahmed-Khan/RestAPI-Post/issues"
+  },
+  "homepage": "https://github.com/Ali-Ahmed-Khan/RestAPI-Post#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.0"
+  }
+}
